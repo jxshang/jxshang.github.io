@@ -1,0 +1,373 @@
+/* 电子票 */
+.ticket-info {
+    border: 1px solid #DDDDDD;
+    padding: 0px 20px;
+    border-radius: 6px;
+}
+
+.ticket-info h4 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.ticket-info .media-left p{
+    margin-bottom: 0px;
+}
+
+.ticket-info .media-body p{
+    margin-bottom: 3px;
+}
+
+.ticket-info .media-right {
+    border-left: 1px dashed #DDDDDD;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+
+/* 登录名 */
+#login-name-validate > p{
+	margin-bottom: -5px;
+}
+
+/* 选择费用列表 */
+#select-fees-form table {
+    border: 1px solid #ddd;
+}
+
+#select-fees-form table td {
+	line-height: 34px;
+	height: 34px;
+	padding-left: 15px;
+}
+
+#select-fees-form table th {
+	line-height: 25px;
+	height: 25px;
+	padding-left: 15px;
+}
+
+#select-fees-form table select.quantity {
+    min-width: 70px;
+}
+
+#select-fees-form span.money {
+    font-weight: bold;
+    font-size: 1.1em;
+}
+
+#select-fees-form table tfoot td.total {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#select-fees-form table tfoot button {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#select-fees-form tr.ticket:hover {
+	/* cursor: pointer; */
+}
+
+#select-fees-form tr.selected {
+	border-left: 2px solid #a94442;
+	border-right: 2px solid #a94442;
+	background-color: #fcf8e3;
+}
+
+/*  选择支付渠道 */
+ul.banks > li{
+    width: 140px !important;
+    margin-bottom: 5px;
+}
+
+ul.banks > li > label {
+    padding-left: 4px !important;
+    cursor: pointer;
+}
+
+ul.banks > li > label > img {
+    max-width: 120px;
+}
+
+label.active {
+    border: 2px solid #c12e2a;
+}
+
+p.payment-note {
+    color: #959595;
+    padding: 2px 10px;
+    margin: 0 0 10px;
+    border-left: 4px solid #eee;
+}
+
+/* author list */
+#table-authors {
+	font-size: 0.8em;
+}
+
+#table-authors .sort {
+	width: 80px;
+}
+
+#table-authors .name {
+	width: 80px;
+}
+
+#table-authors .country {
+	width: 50px;
+}
+
+#table-authors .action {
+	width: 95px;
+}
+
+#table-paper th {
+	/* background: #e9f6ea; */
+	background: #F9F9FC;
+	width: 100px;
+}
+
+#my-papers .sn{
+	width: 50px;
+}
+
+#my-papers .language {
+	width: 80px;
+}
+
+#my-papers .status {
+	width: 80px;
+}
+
+#my-papers .action {
+	width: 100px;
+}
+
+
+/* SCHEDULE */
+#schedules .page-header {
+	margin: 10px 0px 0px 0px;
+}
+
+.schedule-date-divider {
+	font-weight: bold;
+	font-size: 16px;
+	color: #333;
+}
+
+.schedules .schedule-time-divider {
+	padding: 3px 40px;
+	background-color: #f5f5f5;
+}
+
+.schedules .schedule-time {
+	display:table-cell;
+	border-right: 1px solid #DDDDDD;
+	vertical-align: top;
+	padding: 5px 15px 0px 25px;
+	text-align: right;
+}
+
+.schedules .schedule-time small {
+	width: 8px;
+	height: 8px;
+	line-height: 8px;
+	font-size: 8px;
+}
+
+.schedules .schedule-time .start {
+	font-size: 14px;
+	text-align: right;
+}
+
+.schedules .schedule-time .end {
+	font-size: 13px;
+	text-align: right;
+	color: #999999;
+}
+.schedules .schedule-body {
+	text-align: left;
+	display: table-cell;
+	vertical-align: top;
+	width: 100%;
+	padding: 5px 15px 0px;
+}
+
+.schedules .schedule-body span.title {
+	font-size: 15px;
+	padding-top: 0px;
+	margin: 0px 0px 5px 0px;
+}
+
+.schedules .schedule-body p {
+	margin-bottom: 0px;
+}
+
+.schedules .schedule-body p a{
+	color: #999999;
+}
+
+.schedules .schedule-body p.venues {
+	color: #999999;
+}
+
+.schedules .schedule-body p.speakers {
+	color: #999999;
+}
+
+span.venue-circle,
+span.track-circle {
+	width: 6px;
+    height: 6px;
+    background-color: #333;
+    border-radius: 50%;
+	display: inline-block;
+	vertical-align: middle;
+	text-align: center;
+}
+
+.add-to-my-schedule {
+	text-align: center;
+	display: table-cell;
+	vertical-align: middle;
+}
+
+.add-to-my-schedule a {
+	color: #999999;
+}
+
+.add-to-my-schedule a:hover {
+	color: #337ab7;
+}
+
+.schedule-filter {
+	margin-top: 15px;
+	font-size: 14px;
+	border: 1px solid #e6e8eb;
+	padding: 1px 15px 15px 15px;
+	background-color: #f4f9fe;
+	color: #666;
+}
+
+.schedule-filter h4 {
+    font-size: 16px;
+    color: #3d464d;
+    font-weight: bold;
+	/*text-align: center;*/
+}
+
+.schedule-filter .form-group {
+	margin-bottom: 10px;
+}
+
+.schedule-filter li a {
+	color: #333;
+	text-decoration: none;
+}
+
+.schedule-filter a:hover,
+.schedule-filter li:hover {
+	color: #337ab7;
+}
+
+#schedules {
+	padding-bottom: 30px;
+}
+
+/* EVENT SESSION and SPEAKER */
+.session-base-info {
+	font-size: 14px;
+	margin-top: 10px;
+}
+
+.session-base-info > div {
+	line-height: 1.8em;
+}
+
+.session-base-info .session-tracks > i {
+	margin-right: 8px;
+}
+
+.session-description {
+	margin: 20px 0px;
+}
+
+.media-list-speakers li.media {
+	margin-top: 0px;
+	padding: 10px 0px;
+}
+
+.media-list-speakers li.media:hover {
+  color: #555;
+  text-decoration: none;
+  /*background-color: #f5f5f5;*/
+}
+
+.media-list-speakers li.media {
+    border-bottom: 1px solid #e6e8eb;
+}
+
+.media-list-speakers .speaker-title {
+	margin-bottom: 5px;
+	font-size: 14px;
+}
+
+.session-description,
+.media-list-speakers .speaker-description {
+	border-left: 5px solid #eee;
+	padding: 0px 20px;
+	font-size: 14px;
+}
+
+.media-list-speakers .media-avatar img{
+    border: 0;
+    width: 75px;
+    height: 75px;
+}
+
+.media-list-speakers .media-body {
+	padding-left: 10px;
+}
+
+@media (min-width: 768px) {
+
+	#event-login, #event-register {
+		min-height: 500px;
+	}
+
+	#event-register .progress-indicator{
+		margin: 20px 40px 30px;
+	}
+
+	#event-register #register-form, #event-login #login-form {
+		/* padding-top: 20px; */
+	}
+
+	#event-login > div {
+		margin: 20px 80px;
+	}
+
+
+	/* ORDER */
+	.panel-order span.item-title{
+		margin-left: 10px;
+	}
+
+}
+
+@media (max-width: 767px) {
+    #event-register #register-form, #event-login #login-form {
+		padding-top: 15px;
+	}
+
+	#event-login, #event-register {
+		padding-bottom: 40px;
+	}
+}
+
+@media (max-width: 567px) {
+	#select-fees-form table select.quantity {
+		width: 50px;
+	}
+}
