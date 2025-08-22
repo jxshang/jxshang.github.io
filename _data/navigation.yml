@@ -3,17 +3,21 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
+  - title: "Employment"
+    url: "/#employment"
+
   - title: "Educations"
-    url: "/#-educations"
+    url: "/#educations"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#publications"
 
   - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "/#honors-and-awards"
 
   - title: "Conferences"
-    url: "/#-conferences"
+    url: "/#conferences"
 
   - title: "Keen Project"
-    url: "/#-keen-project"
+    url: "/#keen-project"
+
