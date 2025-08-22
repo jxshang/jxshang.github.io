@@ -160,12 +160,6 @@ My research interest includes:
 - 伍剑波, `唐健`, 王杰, 方辉. 一种基于动生涡电流的金属管件电磁无损检测装置. [[网页]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2016&filename=CN105510433A&v=) 
 - 刁燕, 陈敏, 王荣彪, `唐健`, 蒲廷燕, 都健. 一种基于绳体拉力传动的机械手. [[网页]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2016&filename=CN105773598A&v=) 
 
-
-
-
-
-
-
 <span class='anchor' id='publications'></span>
 
 # 🏅 Honors and Awards
@@ -188,6 +182,7 @@ My research interest includes:
 - *2017.6 - 2021.1*, 制造装备数字化国家工程研究中心, 湖北武汉
 
 <span class='anchor' id='keen-project'></span>
+
 
 
 
