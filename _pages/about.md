@@ -211,9 +211,10 @@ My research interest includes:
 <div class='paper-box-text' markdown="1">
 -	Haoyu Xiong, `Jiaxing Shang*`, Fei Hao, Dajiang Liu, Geyong Min. SDVD: Self-supervised dual-view modeling of user and cascade dynamics for information diffusion prediction. *Knowledge-Based Systems*. 2025, 326(27): 114005. (JCR Q1; IF=7.6)  
 [[HTML]](https://www.sciencedirect.com/science/article/abs/pii/S0950705125010500) [[Code]](https://github.com/jxshang/SDVD)  
-**Abstract:** In this paper, we propose SDVD, a novel framework for Self-supervised Dual-View modeling of user and cascade Dynamics for information diffusion prediction. SDVD first constructs two auxiliary graphs from historical data: an adjacency dependency graph to capture temporal dependencies and a hypergraph to model group interactions. It then leverages graph neural networks and hypergraph neural networks to extract structural features from the graphs. Furthermore, we design a self-supervised dual-view dynamic modeling module to learn temporal variations in diffusion patterns from both user and cascade perspectives, followed by a cross-attention mechanism to combine these information. Experiments on four real-world datasets show that SDVD achieves statistically significant improvements (p<0.05), with up to a 6.63% increase in MAP@10.
+In this paper, we propose SDVD, a novel framework for Self-supervised Dual-View modeling of user and cascade Dynamics for information diffusion prediction. SDVD first constructs two auxiliary graphs from historical data: an adjacency dependency graph to capture temporal dependencies and a hypergraph to model group interactions. It then leverages graph neural networks and hypergraph neural networks to extract structural features from the graphs. Furthermore, we design a self-supervised dual-view dynamic modeling module to learn temporal variations in diffusion patterns from both user and cascade perspectives, followed by a cross-attention mechanism to combine these information. Experiments on four real-world datasets show that SDVD achieves statistically significant improvements (p<0.05), with up to a 6.63% increase in MAP@10.
 </div>
 </div>
+
 
 
 
