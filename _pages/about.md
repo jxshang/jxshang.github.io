@@ -203,10 +203,17 @@ My research interest includes:
 **KEEN: Knowledge-Driven Explainable Misinformation Detection for Trustworthy Computational Social Systems**
 
 ## Project Updates:
-- *2025.08*, We have one paper on fake news detection submitted to *WSDM 2026*. (Top Conference)
 - *2025.06*, We have one paper on information diffusion prediction accepted by *Knowledge-Based Systems* (JCR Q1, IF=7.6).
 - *2025.04*, We have one paper on fake news detection submitted to *IEEE Transactions on Knowledge and Data Engineering*. (JCR Q1, IF=10.4)
 - *2024.05*, We have one paper on fake news detection submitted to *IEEE Transactions on Knowledge and Data Engineering*. (JCR Q1, IF=10.4)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS 2025</div><img src='images/SDVD_KBS.png' alt="SDVD" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+-	Haoyu Xiong, `Jiaxing Shang*`, Fei Hao, Dajiang Liu, Geyong Min. SDVD: Self-supervised dual-view modeling of user and cascade dynamics for information diffusion prediction. *Knowledge-Based Systems*. 2025, 326(27): 114005. (JCR Q1; IF=7.6)  
+[[HTML]](https://www.sciencedirect.com/science/article/abs/pii/S0950705125010500) [[Code]](https://github.com/jxshang/SDVD)
+**Abstract:** Information diffusion prediction aims to estimate the likelihood of a user participating in a spreading message by leveraging social relationships and historical diffusion patterns. However, existing approaches often overlook a crucial factor: users’ participation behaviors are influenced by diverse and evolving motivations. Moreover, treating historical data as a whole may introduce noise from outdated information — especially as new users join — highlighting the dynamic nature of diffusion cascades. In addition, many current methods lack explicit supervision signals to effectively model these dynamics. To address these limitations, we propose SDVD, a novel framework for Self-supervised Dual-View modeling of user and cascade Dynamics for information diffusion prediction. SDVD begins by constructing two auxiliary graphs from historical data: an adjacency dependency graph to capture temporal dependencies and a hypergraph to model group interactions. These structures explicitly model cascade dynamics and enhance user–cascade interaction understanding. We leverage graph neural networks and hypergraph neural networks to extract structural features from the graphs and introduce a user-aware fusion mechanism that integrates multisource information while reducing redundancy and noise. Furthermore, we design a self-supervised dual-view dynamic modeling module to learn temporal variations in diffusion patterns from both user and cascade perspectives. A cross-attention mechanism then combines static and dynamic representations, capturing contextual information within the cascade sequence. Experiments on four real-world datasets — with consistent preprocessing and data splitting — show that SDVD achieves statistically significant improvements (p<0.05), with up to a 6.63% increase in MAP@10.
+</div>
+</div>
 
 
 
