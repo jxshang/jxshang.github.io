@@ -54,14 +54,14 @@ My research interest includes:
 
 <span class='anchor' id='publications'></span>
 
-# 📝 Publications
+# 📝 Selected Publications
 
 ### English (*Corresponding author)
 ---
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2025</div><img src='images/DVCAE_TKDE.png' alt="DVCAE" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Jiaxing Shang`, Xueqi Jia, Xiaoquan Li, Fei Hao, Ruiyuan Li, Geyong Min. DVCAE: Semi-Supervised Dual Variational Cascade Autoencoders for Information Popularity Prediction. *IEEE Transactions on Knowledge and Data Engineering*, 2025. (JCR Q1; IF=10.4)
+-	`Jiaxing Shang*`, Xueqi Jia, Xiaoquan Li, Fei Hao, Ruiyuan Li, Geyong Min. DVCAE: Semi-Supervised Dual Variational Cascade Autoencoders for Information Popularity Prediction. *IEEE Transactions on Knowledge and Data Engineering*, 2025. (JCR Q1; IF=10.4)
 [[HTML]](https://ieeexplore.ieee.org/abstract/document/11087707) [[Code]](https://github.com/jxshang/DVCAE)
 
 </div>
@@ -70,7 +70,7 @@ My research interest includes:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TITS 2025</div><img src='images/TF-QAR-TITS.png' alt="TF-QAR" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	Jiongbiao Cai, `Jiaxing Shang`, Xu Li, Chengxiang Li, Linjiang Zheng. Fine-Grained Time and Hidden Feature Learning for Interpretable Hard Landing Prediction Based on QAR Data. *IEEE Transactions on Intelligent Transportation Systems*. 2025. (JCR Q1; IF=8.4)  
+-	Jiongbiao Cai, `Jiaxing Shang*`, Xu Li, Chengxiang Li, Linjiang Zheng. Fine-Grained Time and Hidden Feature Learning for Interpretable Hard Landing Prediction Based on QAR Data. *IEEE Transactions on Intelligent Transportation Systems*. 2025. (JCR Q1; IF=8.4)  
 [[HTML]](https://ieeexplore.ieee.org/abstract/document/11015832) 
 
 </div>
@@ -79,117 +79,124 @@ My research interest includes:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS 2025</div><img src='images/SDVD_KBS.png' alt="SDVD" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	Haoyu Xiong, `Jiaxing Shang`, Fei Hao, Dajiang Liu, Geyong Min. SDVD: Self-supervised dual-view modeling of user and cascade dynamics for information diffusion prediction. *Knowledge-Based Systems*. 2025, 326(27): 114005. (JCR:Q1; IF=7.6)  
+-	Haoyu Xiong, `Jiaxing Shang*`, Fei Hao, Dajiang Liu, Geyong Min. SDVD: Self-supervised dual-view modeling of user and cascade dynamics for information diffusion prediction. *Knowledge-Based Systems*. 2025, 326(27): 114005. (JCR Q1; IF=7.6)  
 [[HTML]](https://www.sciencedirect.com/science/article/abs/pii/S0950705125010500) [[Code]](https://github.com/jxshang/SDVD) 
 
 </div>
 </div>
 
 
-- Xinyuan Zhu, Fei Hao, Ming Lei, Aziz Nasridinov, `Jiaxing Shang`, Zhengxin Yu, Longjiang Guo. *Future Generation Computer Systems*. 2026, 175: 108033. (JCR:Q1; IF=6.1)  
+- Xinyuan Zhu, Fei Hao, Ming Lei, Aziz Nasridinov, `Jiaxing Shang`, Zhengxin Yu, Longjiang Guo. *Future Generation Computer Systems*. 2026, 175: 108033. (JCR Q1; IF=6.1)  
 [[HTML]](https://www.sciencedirect.com/science/article/abs/pii/S0167739X25003280)
 
 
 - `Jiaxing Shang*`, Xiaoquan Li, Ruixiang Zhang, Linjiang Zheng, Xu Li, Riquan Zhang, Xinbin Zhao, Fan Li, Hong Sun. A Dual Two-Stage Attention-based Model for Interpretable Hard Landing Prediction from Flight Data. *Engineering Applications of Artificial Intelligence*. 2025,154(15): 110911. (JCR Q1; IF=8.0)  
 [[HTML]](https://www.sciencedirect.com/science/article/abs/pii/S095219762500911X) [[Code]](https://github.com/jxshang/DUTSAM)
 
-- Jikai Zhang, Yuewen Huang, `Jian Tang`, Fangfang Zhou, Yihua Kang, Bo Feng. Inspection of Cracks in the Piston Rod of a Hydraulic Cylinder Using Injected Alternating Current-Field Measurement. *Water*. 2022 14(17):2736. (JCR:Q2; IF:3.530)  
-[[网页]](https://dx.doi.org/10.3390/w14172736) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/ZhangJ-2022-Inspection%20of%20Cracks%20in%20the%20Piston%20Rod%20of%20a%20Hydraulic%20Cylinder%20Using%20Injected.pdf) [[下载]](/pdf/ZhangJ-2022-Inspection%20of%20Cracks%20in%20the%20Piston%20Rod%20of%20a%20Hydraulic%20Cylinder%20Using%20Injected.pdf)
 
--	Shenghan Wang, Bo Feng, `Jian Tang`, Yanting Chen, Yihua Kang. A Novel AC-MFL Probe Based on the Parallel Cables Magnetizing Technique. *Journal of Nondestructive Evaluation*, 2022, 41(2): 39. (JCR:Q2; IF:1.995)  
-[[网页]](https://dx.doi.org/10.1007/s10921-022-00872-3) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/WangS-2022-A%20Novel%20AC-MFL%20Probe%20Based%20on%20the%20Parallel%20Cables%20Magnetizing%20Technique.pdf) [[下载]](/pdf/WangS-2022-A%20Novel%20AC-MFL%20Probe%20Based%20on%20the%20Parallel%20Cables%20Magnetizing%20Technique.pdf)
+- `Jiaxing Shang*`, Yuxuan Zhang, Linyang Zhong, Ruiyuan Li. Syntactic-Enhanced Multi-Task Learning Model for Aspect Sentiment Triplet Extraction. *Data Science and Engineering*. 2025. (JCR Q1; IF=4.6)  
+[[HTML]](https://link.springer.com/article/10.1007/s41019-025-00289-8)
 
--	Rongbiao Wang, Yihua Kang, `Jian Tang`, Bo Feng, Yongle Deng. A Novel Magnetic Flux Leakage Testing Method Based on AC and DC Composite Magnetization. *Journal of Nondestructive Evaluation*. 2020, 39(4): 84. (JCR:Q2; IF:1.995)  
-[[网页]](https://dx.doi.org/10.1007/s10921-020-00730-0) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/Wang-2020-A%20Novel%20Magnetic%20Flux%20Leakage%20Testing%20Method%20Based%20on%20AC%20and%20DC%20Composite.pdf) [[下载]](/pdf/Wang-2020-A%20Novel%20Magnetic%20Flux%20Leakage%20Testing%20Method%20Based%20on%20AC%20and%20DC%20Composite.pdf)
 
-- Rongbiao Wang, `Jian Tang`, Zhiyang Deng, Yihua Kang. Motion induced eddy current based testing method for the detection of circumferential defects under circumferential magnetization. *International Journal of Applied Electromagnetics and Mechanics*. 2020, 64(1–4): 501–508. (JCR:Q4; IF:0.706)  
-[[网页]](https://dx.doi.org/10.3233/JAE-209357) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/WangR-2020-Motion%20induced%20eddy%20current%20based%20testing%20method%20for%20the%20detection%20of.pdf) [[下载]](/pdf/WangR-2020-Motion%20induced%20eddy%20current%20based%20testing%20method%20for%20the%20detection%20of.pdf)
+- Lei Song, Xu Li, Hongtao Liu, Lin Wu, Hong Sun, Linjiang Zheng*, `Jiaxing Shang*`. MDGNN: Multiple Flight Safety Incidents Prediction Model Based on Dynamic Graph Neural Networks. *IEEE Transactions on Intelligent Transportation Systems*. 2025, 26(4): 5598-5612. (JCR Q1; IF=8.4)  
+[[HTML]](https://ieeexplore.ieee.org/abstract/document/10923645)
 
--	Rongbiao Wang, Zhiyang Deng, Rui Liu, Yihua Kang, Jikai Zhang, `Jian Tang`. A large lift-off nondestructive testing method based on the interaction between AC magnetic field and MFL field. *23rd International Workshop on Electromagnetic Nondestructive Evaluation*, ENDE 2018. Detroit, MI, United States: IOS Press. 2019: 44–49. (EI)  
-[[网页]](https://dx.doi.org/10.3233/SAEM190009) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/WangR-2019-A%20large%20lift-off%20nondestructive%20testing%20method%20based%20on%20the%20interaction%20between.pdf) [[下载]](/pdf/WangR-2019-A%20large%20lift-off%20nondestructive%20testing%20method%20based%20on%20the%20interaction%20between.pdf)
 
-- Xiaoming Huang, Jianbo Wu, Jie Wang, Rongbiao Wang, `Jian Tang`, Yihua Kang, Hui Fang. Signal Characteristics of Circular Induction Coil Influenced by Scanning Spatial Location in MFL. *Materials Evaluation*. 2018, 76(12):1647–59. (JCR:Q4; IF:0.554)  
-[[网页]](https://ndtlibrary.asnt.org/2018/SignalCharacteristicsofCircularInductionCoilInfluencedbyScanningSpatialLocationinMFL) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/Huang-2018-Signal%20Characteristics%20of%20Circular%20Induction%20Coil%20Influenced%20by%20Scanning.pdf) [[下载]](/pdf/Huang-2018-Signal%20Characteristics%20of%20Circular%20Induction%20Coil%20Influenced%20by%20Scanning.pdf)
+- Longquan Liao, Linjiang Zheng*, `Jiaxing Shang`, Xu Li, Fengwen Chen. ATPF: An Adaptive Temporal Perturbation Framework for Adversarial Attacks on Temporal Knowledge Graph. *IEEE Transactions on Knowledge and Data Engineering*. 2025, 37(3): 1091-1104. (JCR Q1; IF=10.4)  
+[[HTML]](https://ieeexplore.ieee.org/abstract/document/10777929)
 
--	Erlong Li, Yihua Kang, `Jian Tang`, Jianbo Wu. A new micro magnetic bridge probe in magnetic flux leakage for detecting micro-cracks. *Journal of Nondestructive Evaluation*. 2018, 37(3): 46. (JCR:Q2; IF:1.995)  
-[[网页]](https://dx.doi.org/10.1007/s10921-018-0499-8) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/Li-2018-A%20New%20Micro%20Magnetic%20Bridge%20Probe%20in%20Magnetic%20Flux%20Leakage%20for%20Detecting.pdf) [[下载]](/pdf/Li-2018-A%20New%20Micro%20Magnetic%20Bridge%20Probe%20in%20Magnetic%20Flux%20Leakage%20for%20Detecting.pdf)
 
--	Erlong Li, Yihua Kang, `Jian Tang`, Jianbo Wu, Xizi Yan. Analysis on Spatial Spectrum of Magnetic Flux Leakage Using Fourier Transform. *IEEE Transactions on Magnetics*. 2018, 54(8): 1–10. (JCR:Q3; IF:1.700)  
-[[网页]](https://dx.doi.org/10.1109/TMAG.2018.2844220) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/LiE-2018-Analysis%20on%20Spatial%20Spectrum%20of%20Magnetic%20Flux%20Leakage%20Using%20Fourier%20Transform.pdf) [[下载]](/pdf/LiE-2018-Analysis%20on%20Spatial%20Spectrum%20of%20Magnetic%20Flux%20Leakage%20Using%20Fourier%20Transform.pdf)
+- Xiaojuan Yang,  `Jiaxing Shang*`, Qinghong Hu, Dajiang Liu. ARIS: Efficient admitted influence maximizing in large-scale networks based on valid path reverse influence sampling. *IEEE Transactions on Emerging Topics in Computing*. 2024, 12(3): 700-714. (JCR Q1; IF=5.4)  
+[[HTML]](https://ieeexplore.ieee.org/abstract/document/10777929)
+
+
+- Yincheng Han, Dajiang Liu, `Jiaxing Shang*`, Linjiang Zheng, Jiang Zhong, Weiwei Cao, Hong Sun, Wu Xie. BALQUE: Batch active learning by querying unstable examples with calibrated confidence. *Pattern Recognition*. 2024, 151: 110385. (JCR Q1; IF=7.6)  
+[[HTML]](https://www.sciencedirect.com/science/article/abs/pii/S0031320324001365) [[Code]](https://github.com/zkoladzl/balque)
+
+
+- Dajiang Liu*, Decai Pan, Xiao Xiong, `Jiaxing Shang`, Shouyi Yin. PMP: Pattern Morphing-based Memory Partitioning in High-Level Synthesis. *Proceedings of the 61st ACM/IEEE Design Automation Conference*. 2024.
+[[HTML]](https://dl.acm.org/doi/abs/10.1145/3649329.3658239)
+
+
+- Hong Yin, Jiang Zhong*, Rongzhen Li, `Jiaxing Shang`, Chen Wang, Xue Li. High-order neighbors aware representation learning for knowledge graph completion. *IEEE Transactions on Neural Networks and Learning Systems*. 2024, 36(3): 5273-5287. (JCR Q1, IF=8.9)
+[[HTML]](https://ieeexplore.ieee.org/abstract/document/10506111)
+
+
+- Xu Li, `Jiaxing Shang*`, Linjiang Zheng*, Qixing Wang, Dajiang Liu, Xiaodong Liu, Fan Li, Weiwei Cao, Hong Sun. IMTCN: An Interpretable Flight Safety Analysis and Prediction Model Based on Multi-Scale Temporal Convolutional Networks. *IEEE Transactions on Intelligent Transportation Systems*. 2024, 25(1): 289-302. (JCR Q1, IF=8.4)
+[[HTML]](https://ieeexplore.ieee.org/abstract/document/10251795)
+
+
+- Mengya Guan, Xinjun Cai, `Jiaxing Shang*`, Fei Hao, Dajiang Liu, Xianlong Jiao, Wancheng Ni. HMSG: Heterogeneous graph neural network based on metapath subgraph learning. *Knowledge-Based Systems*. 2023, 279: 110930. (JCR Q1; IF=7.6)  
+[[HTML]](https://www.sciencedirect.com/science/article/abs/pii/S0950705123006809) [[Code]](https://github.com/junxincai/HMSG)
+
+
+- Haodong Chen, `Jiaxing Shang*`, Linjiang Zheng*, Xu Li, Xiaodong Liu, Hong Sun, Xinbin Zhao, Liling Yu. SDTAN: Scalable Deep Time-Aware Attention Network for Interpretable Hard Landing Prediction. *IEEE Transactions on Intelligent Transportation Systems*. 2023, 24(9): 10211-10223. (JCR Q1; IF=8.4)  
+[[HTML]](https://www.sciencedirect.com/science/article/abs/pii/S0950705123006809)
+
+
+- Xueqi Jia, `Jiaxing Shang*`, Dajiang Liu, Haidong Zhang, Wancheng Ni*. HeDAN: Heterogeneous diffusion attention network for popularity prediction of online content. *Knowledge-Based Systems*. 2022, 254: 109659. (JCR Q1; IF=7.6)  
+[[HTML]](https://www.sciencedirect.com/science/article/abs/pii/S0950705123006809)
+
+
+- Ziwei Jin, `Jiaxing Shang*`, Wancheng Ni*, Liang Zhao, Dajiang Liu, Baohua Qiang, Wu Xie, Geyong Min. IM2Vec: Representation learning-based preference maximization in geo-social networks. *Information Sciences*. 2022, 604: 170-196. (JCR Q1; IF=6.8)  
+[[HTML]](https://www.sciencedirect.com/science/article/abs/pii/S0020025522004200)
+
+
+- Xu Li, `Jiaxing Shang*`, Linjiang Zheng*, Qixing Wang, Hong Sun, Lin Qi. Curvecluster+: Curve clustering for hard landing pattern recognition and risk evaluation based on flight data. *IEEE Transactions on Intelligent Transportation Systems*. 2022, 23(8): 12811-12821. (JCR Q1; IF=8.4)  
+[[HTML]](https://ieeexplore.ieee.org/abstract/document/9569759)
+
+
+- Xianren Zhang, `Jiaxing Shang*`, Xueqi Jia, Dajiang Liu, Fei Hao, Zhiqing Zhang. CollaborateCas: popularity prediction of information cascades based on collaborative graph attention networks. *International Conference on Database Systems for Advanced Applications*. 2022, 714-721.   
+[[HTML]](https://link.springer.com/chapter/10.1007/978-3-031-00123-9_56)
+
+
+- `Jiaxing Shang*`, Shangbo Zhou, Xin Li, Lianchen Liu, Hongchun Wu. CoFIM: A community-based framework for influence maximization on large-scale networks. *Knowledge-Based Systems*. 2017, 117: 88-100. (JCR Q1, IF=7.6)   
+[[HTML]](https://www.sciencedirect.com/science/article/abs/pii/S0950705116303598) [[Code]](https://sourceforge.net/projects/cofim-com-based-fast-influ-max/)
+
 
 ### Chinese
 ---
+- 陈露, `尚家兴*`, 刘大江, 张玉芳, 倪晚成. 基于异构图神经网络的可解释兵棋态势预测方法. *自动化学报*. 2025, 51(6): 1248-1260. (**CCF-A**)  
+[[HTML]](https://www.aas.net.cn/article/doi/10.16383/j.aas.c240468)
 
-- 	`唐健`，王荣彪，康宜华. 大提离漏磁无损检测方法. *无损检测*. 2022,44(4): 67. (核心期刊)  
-[[网页]](https://dx.doi.org/10.11973/wsjc202204000) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E5%94%90%E5%81%A5-2022-%E5%A4%A7%E6%8F%90%E7%A6%BB%E6%BC%8F%E7%A3%81%E6%97%A0%E6%8D%9F%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf) [[下载]](/pdf/%E5%94%90%E5%81%A5-2022-%E5%A4%A7%E6%8F%90%E7%A6%BB%E6%BC%8F%E7%A3%81%E6%97%A0%E6%8D%9F%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf)  
+- 潘德财, 牟迪, `尚家兴`, 刘大江*. 基于访存图案变形的CGRA存储划分优化. *计算机研究与发展*. 2025, 62(4): 1003-1016. (**CCF-A**)  
+[[HTML]](https://crad.ict.ac.cn/article/doi/10.7544/issn1000-1239.202440079)
 
-- 刘伯承, `唐健*`, 王荣彪, 叶文超, 康宜华. 基于TMR的轴承滚子微细裂纹漏磁检测方法. *仪表技术与传感器*. 2021(12): 111-114+118.  (通讯作者; 核心期刊)  
-[[网页]](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=YBJS202112021) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E5%88%98%E4%BC%AF%E6%89%BF-2021-%E5%9F%BA%E4%BA%8ETMR%E7%9A%84%E8%BD%B4%E6%89%BF%E6%BB%9A%E5%AD%90%E5%BE%AE%E7%BB%86%E8%A3%82%E7%BA%B9%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf) [[下载]](/pdf/%E5%88%98%E4%BC%AF%E6%89%BF-2021-%E5%9F%BA%E4%BA%8ETMR%E7%9A%84%E8%BD%B4%E6%89%BF%E6%BB%9A%E5%AD%90%E5%BE%AE%E7%BB%86%E8%A3%82%E7%BA%B9%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf)  
-
-- 	汪圣涵, `唐健*`, 刘军, 陈文宇, 康宜华. 双机械手操作的轴承阵列漏磁检测方法与系统. *轴承*. 2021(01): 54-58+65. (通讯作者; 核心期刊)  
-[[网页]](https://dx.doi.org/10.19533/j.issn1000-3762.2021.01.011) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E6%B1%AA%E5%9C%A3%E6%B6%B5-2021-%E5%8F%8C%E6%9C%BA%E6%A2%B0%E6%89%8B%E6%93%8D%E4%BD%9C%E7%9A%84%E8%BD%B4%E6%89%BF%E9%98%B5%E5%88%97%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E7%B3%BB%E7%BB%9F.pdf) [[下载]](/pdf/%E6%B1%AA%E5%9C%A3%E6%B6%B5-2021-%E5%8F%8C%E6%9C%BA%E6%A2%B0%E6%89%8B%E6%93%8D%E4%BD%9C%E7%9A%84%E8%BD%B4%E6%89%BF%E9%98%B5%E5%88%97%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E7%B3%BB%E7%BB%9F.pdf)  
-
-
-- 	邓永乐, 王荣彪, `唐健`, 汪圣涵, 康宜华. 基于脉冲磁化的阵列磁桥式位移传感器. *仪器仪表学报*. 2021: 1–10. (EI期刊)  
-[[网页]](https://dx.doi.org/10.19650/j.cnki.cjsi.J2107388) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E9%82%93%E6%B0%B8%E4%B9%90-2021-%E5%9F%BA%E4%BA%8E%E8%84%89%E5%86%B2%E7%A3%81%E5%8C%96%E7%9A%84%E9%98%B5%E5%88%97%E7%A3%81%E6%A1%A5%E5%BC%8F%E4%BD%8D%E7%A7%BB%E4%BC%A0%E6%84%9F%E5%99%A8.pdf) [[下载]](/pdf/%E9%82%93%E6%B0%B8%E4%B9%90-2021-%E5%9F%BA%E4%BA%8E%E8%84%89%E5%86%B2%E7%A3%81%E5%8C%96%E7%9A%84%E9%98%B5%E5%88%97%E7%A3%81%E6%A1%A5%E5%BC%8F%E4%BD%8D%E7%A7%BB%E4%BC%A0%E6%84%9F%E5%99%A8.pdf)  
+- 冯永*, 张春平, 强保华, 张逸扬, `尚家兴`. GP-WIRGAN: 梯度惩罚优化的Wasserstein图像循环生成对抗网络模型. *计算机学报*. 2020, 2: 190-205. (**CCF-A**)  
+[[HTML]](http://cjc.ict.ac.cn/qwjs/view.asp?id=5296) [[PDF]](http://cjc.ict.ac.cn/online/onlinepaper/fy-2020119220733.pdf)
 
 
-- 	王荣彪, 康宜华, 邓永乐, 王碧瑶, 汪圣涵, `唐健`. 钻杆内壁腐蚀的交直流复合磁化漏磁检测方法. *中国机械工程*. 2020: 1–6. (EI期刊)  
-[[网页]](https://dx.doi.org/10.3969/j.issn.1004-132X.2021.02.001) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E7%8E%8B%E8%8D%A3%E5%BD%AA-2020-%E9%92%BB%E6%9D%86%E5%86%85%E5%A3%81%E8%85%90%E8%9A%80%E7%9A%84%E4%BA%A4%E7%9B%B4%E6%B5%81%E5%A4%8D%E5%90%88%E7%A3%81%E5%8C%96%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf) [[下载]](/pdf/%E7%8E%8B%E8%8D%A3%E5%BD%AA-2020-%E9%92%BB%E6%9D%86%E5%86%85%E5%A3%81%E8%85%90%E8%9A%80%E7%9A%84%E4%BA%A4%E7%9B%B4%E6%B5%81%E5%A4%8D%E5%90%88%E7%A3%81%E5%8C%96%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf)  
+- 冯永*, 张备, 强保华, 张逸扬, `尚家兴`. MN-HDRM：长短兴趣多神经网络混合动态推荐模型. *计算机学报*. 2019, 1: 16-28. (**CCF-A**)  
+[[HTML]](http://cjc.ict.ac.cn/qwjs/view.asp?id=5111) [[PDF]](http://cjc.ict.ac.cn/online/onlinepaper/fy-201916190947.pdf)
 
--	刘伯承, 段兆祺, 姜春, `唐健`, 康宜华. 轴承滚子微细裂纹的漏磁检测. *无损检测*, 2022, 44(11): 1-5. (核心期刊)   
-[[网页]](https://dx.doi.org/10.11973/wsjc202211001) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E5%88%98%E4%BC%AF%E6%89%BF-2022-%E8%BD%B4%E6%89%BF%E6%BB%9A%E5%AD%90%E5%BE%AE%E7%BB%86%E8%A3%82%E7%BA%B9%E7%9A%84%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B.pdf) [[下载]](/pdf/%E5%88%98%E4%BC%AF%E6%89%BF-2022-%E8%BD%B4%E6%89%BF%E6%BB%9A%E5%AD%90%E5%BE%AE%E7%BB%86%E8%A3%82%E7%BA%B9%E7%9A%84%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B.pdf)  
-
-- 	刘伯承, `唐健`, 王荣彪, 康宜华, 余平. 基于交流通电的钢球微细裂纹电磁检测方法. *轴承*. 2021(08): 32–38. (核心期刊)  
-[[网页]](https://dx.doi.org/10.19533/j.issn1000-3762.2021.08.007) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E5%88%98%E4%BC%AF%E6%89%BF-2021-%E5%9F%BA%E4%BA%8E%E4%BA%A4%E6%B5%81%E9%80%9A%E7%94%B5%E7%9A%84%E9%92%A2%E7%90%83%E5%BE%AE%E7%BB%86%E8%A3%82%E7%BA%B9%E7%94%B5%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf) [[下载]](/pdf/%E5%88%98%E4%BC%AF%E6%89%BF-2021-%E5%9F%BA%E4%BA%8E%E4%BA%A4%E6%B5%81%E9%80%9A%E7%94%B5%E7%9A%84%E9%92%A2%E7%90%83%E5%BE%AE%E7%BB%86%E8%A3%82%E7%BA%B9%E7%94%B5%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf)  
-
-
-- 	孟杰, 李二龙, `唐健`, 康宜华. 轴承套圈裂纹高速漏磁检测系统. *轴承*. 2018(08): 66–70. (核心期刊)  
-[[网页]](https://dx.doi.org/10.19533/j.issn1000-3762.2018.08.015) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E5%AD%9F%E6%9D%B0-2018-%E8%BD%B4%E6%89%BF%E5%A5%97%E5%9C%88%E8%A3%82%E7%BA%B9%E9%AB%98%E9%80%9F%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E7%B3%BB%E7%BB%9F.pdf) [[下载]](/pdf/%E5%AD%9F%E6%9D%B0-2018-%E8%BD%B4%E6%89%BF%E5%A5%97%E5%9C%88%E8%A3%82%E7%BA%B9%E9%AB%98%E9%80%9F%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E7%B3%BB%E7%BB%9F.pdf)  
-
-
-
-- 	杨航, 汪圣涵, `唐健`, 康宜华. 凸轮轴的自动化涡流检测方法与系统. *无损检测*. 2020, 42(11): 61. (核心期刊)  
-[[网页]](https://dx.doi.org/10.11973/wsjc202011013) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E6%9D%A8%E8%88%AA-2020-%E5%87%B8%E8%BD%AE%E8%BD%B4%E7%9A%84%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B6%A1%E6%B5%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E7%B3%BB%E7%BB%9F.pdf) [[下载]](/pdf/%E6%9D%A8%E8%88%AA-2020-%E5%87%B8%E8%BD%AE%E8%BD%B4%E7%9A%84%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B6%A1%E6%B5%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E7%B3%BB%E7%BB%9F.pdf)  
-
-### Patents
----
-- 康宜华, `唐健`. 一种基于铁磁性板的缺陷检测方法. [[网页]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9IBC8DFA9GCB8DEA6FAA9HHFCICA1BAA9ACB9EGC9GAA6AAA)
-- 康宜华, `唐健`. 基于电磁原理的倒角测量装置.[[网页]](http://www.wanfangdata.com.cn/details/detail.do?_type=patent&id=CN201921137073.X)
-- 伍剑波, 王杰, 方辉, `唐健`. 一种钢管脉冲磁化漏磁探伤装置. [[网页]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2016&filename=CN105334260A&v=) 
-- 伍剑波, `唐健`, 王杰, 方辉. 一种基于动生涡电流的金属管件电磁无损检测装置. [[网页]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2016&filename=CN105510433A&v=) 
-- 刁燕, 陈敏, 王荣彪, `唐健`, 蒲廷燕, 都健. 一种基于绳体拉力传动的机械手. [[网页]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2016&filename=CN105773598A&v=) 
-
-<span class='anchor' id='honors-and-awards'></span>
 
 # 🏅 Honors and Awards
-- *2015.11* 获得 第十四届“挑战杯”全国大学生课外学术科技作品竞赛 `一等奖`  
-- *2015.06* 获得 第十三届“挑战杯”四川大学生课外学术科技作品竞赛 `一等奖` [[新闻]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)  
-- *2014.12* 获得 第四届全国大学生工程训练综合能力竞赛（四川赛区） `一等奖`  
+- *2023.02* Marie Sklodowska-Curie Postdoctoral Fellowship (Acceptance rate: 17.53%)
+- *2022.09* Outstanding Young Teacher Award, Chongqing University
+- *2021* IEEE Outstanding Service Award as Invited Talk Speaker of the 20th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom’2021).
+- *2021* IEEE Outstanding Service Award as Workshop Chair of the 15th IEEE International Conference on Big Data Science and Engineering (BigDataSE’2021).
+- *2021* IEEE Outstanding Service Award as Workshop Chair of the 3rd International Workshop on Machine Learning assisted Smart System (MLSys’2021).
+- *2021* IEEE Outstanding Service Award as General Chair of the 4th International Workshop on Next Generation Data-driven Networks (NGDN’2021).
+- *2020* IEEE Outstanding Service Award as Workshop Chair of the 1st International Workshop on Data-driven Social Network Analysis and Mining: Algorithms and Applications (DSONAM’2020).
+- *2019* IEEE Outstanding Service Award as Workshop Chair of the 2nd International Workshop on Next Generation Data-driven Networks (NGDN’2019).
 
 <span class='anchor' id='conferences'></span>
 
 # 🏛️ Conferences
-- *2021.10*, 全国电磁无损检测技术研讨会 暨 中国机械工程学会无损检测分会电磁专业技术大会第十一届第四次全体会议, 陕西西安, 受邀报告
-- *2019.09*, 第十九届国际应用电磁学与力学会议 (ISEM 2019), 江苏南京, 海报
-- *2017.10*, 第六届中国国际管道会议 (CIPC 2017), 河北廊坊
+- *2022.10*, The 18th EAI International Conference on Collaborative Computing: Networking, Applications and Worksharing (CollaborateCom 2022), Oral.
+- *2022.08*, International Conference on Knowledge Science, Engineering and Management (KSEM 2022), Oral.
+- *2022.07*, The 34th International Conference on Software Engineering and Knowledge Engineering (SEKE 2022), Oral.
+- *2022.04*, International Conference on Database Systems for Advanced Applications (DASFAA 2022), Oral.
+- *2021.10*, The 20th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom’2021), Invited Talk.
+- *2021.06*, 2021 22nd IEEE International Conference on Mobile Data Management (MDM), Oral.
+- *2020.10*, The 21st International Conference on Web Information Systems Engineering (WISE 2020), Oral.
+- *2018.12*, The 25th International Conference on Neural Information Processing (ICONIP 2018), Oral.
+- *2017.11*, The 24th International Conference on Neural Information Processing (ICONIP 2017), Oral.
+- *2017.06*, The 12th International Conference on Wireless Algorithms, Systems, and Applications (WASA 2017), Oral.
 
 <span class='anchor' id='keen-project'></span>
 
 # 💻 Keen Project
-- *2018.05 - 2020.02*, 重庆长江轴承股份有限公司, 重庆
-- *2020.11.25 - 2020.12.02*, 湖北新冶钢有限公司, 湖北黄石
-- *2017.6 - 2021.1*, 制造装备数字化国家工程研究中心, 湖北武汉
-
-
-
-
-
-
-
-
-
-
-
-
-
+- *2025.08*, We have a paper on fake news detection submitted to *WSDM 2026*.
+- *2025.06*, We have a paper on information diffusion prediction accepted by *Knowledge-Based Systems* (JCR Q1, IF=7.6).
+- *2025.04*, We have a paper on fake news detection submitted to *IEEE Transactions on Knowledge and Data Engineering*.
