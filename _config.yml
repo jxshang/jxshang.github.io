@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Jiaxing Shang"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/JShang.jpg"
   bio              : "Chongqing University"
   location         : "Chongqing, China"
   employer         : "Chongqing University"
@@ -161,5 +161,6 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
 
