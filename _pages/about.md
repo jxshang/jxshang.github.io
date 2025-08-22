@@ -30,12 +30,12 @@ My research interest includes:
 - Flight Data Analysis
   
 # 📢 Updates
-- [2025/07]: One paper on information popularity prediction was accepted by **TKDE** (JCR Q1, IF=10.4)
-- [2025/06]: One paper on information diffusion prediction was accepted by **Knowledge-Based Systems** (JCR Q1, IF=7.6)
-- [2025/05]: One paper on flight data anlysis was accepted by **TITS** (JCR Q1, IF=8.4)
-- [2025/04]: One paper on flight data analysis was accepted by **EAAI** (JCR Q1, IF=8.0)
-- [2025/03]: One paper on aspect sentiment triplet extraction was accepted by **Data Science and Engineering** (JCR Q1, IF=4.6)
-- [2025/02]: One paper on wargame data mining was accepted by **Acta Automatica Sinica** (自动化学报, CCF-A类中文期刊)
+- [2025.07]: One paper on information popularity prediction was accepted by **TKDE** (JCR Q1, IF=10.4)
+- [2025.06]: One paper on information diffusion prediction was accepted by **Knowledge-Based Systems** (JCR Q1, IF=7.6)
+- [2025.05]: One paper on flight data anlysis was accepted by **TITS** (JCR Q1, IF=8.4)
+- [2025.04]: One paper on flight data analysis was accepted by **EAAI** (JCR Q1, IF=8.0)
+- [2025.03]: One paper on aspect sentiment triplet extraction was accepted by **Data Science and Engineering** (JCR Q1, IF=4.6)
+- [2025.02]: One paper on wargame data mining was accepted by **Acta Automatica Sinica** (自动化学报, CCF-A类中文期刊)
 
 <span class='anchor' id='about-me'></span>
 
@@ -46,13 +46,13 @@ My research interest includes:
 - *2016.02 - 2018.08*, <a href="https://www.cqu.edu.cn/"><img class="png" src="/images/CQU_logo.png" width="20pt"></a> Lecturer, College of Computer Science, Chongqing University, Chongqing China.
 - *2014.09 - 2015.01*, <a href="https://www.cityu.edu.hk/"><img class="jpg" src="/images/CityU_logo.jpg" width="20pt"></a> Research Assistant, Department of Information Systems, City University of Hong Kong, Hong Kong China.
  
-<span class='anchor' id='-educations'></span>
+<span class='anchor' id='employment'></span>
 
 # 🎓 Educations
 - *2010.09 - 2016.01*, <a href="https://www.tsinghua.edu.cn/"><img class="svg" src="/images/THU_logo.svg" width="23pt"></a> PhD Degree, Control Science and Engineering, Tsinghua University, Beijing China.
 - *2006.09 - 2010.07*, <a href="https://www.tsinghua.edu.cn/"><img class="svg" src="/images/THU_logo.svg" width="20pt"></a> Bachelor Degree, Department of Automation, Tsinghua University, Beijing China.
  
-<span class='anchor' id='-educations'></span>
+<span class='anchor' id='educations'></span>
 
 # 📝 Publications
 
@@ -166,27 +166,28 @@ My research interest includes:
 
 
 
-<span class='anchor' id='-publications'></span>
+<span class='anchor' id='publications'></span>
 
 # 🏅 Honors and Awards
 - *2015.11* 获得 第十四届“挑战杯”全国大学生课外学术科技作品竞赛 `一等奖`  
 - *2015.06* 获得 第十三届“挑战杯”四川大学生课外学术科技作品竞赛 `一等奖` [[新闻]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)  
 - *2014.12* 获得 第四届全国大学生工程训练综合能力竞赛（四川赛区） `一等奖`  
 
-<span class='anchor' id='-honors-and-awards'></span>
+<span class='anchor' id='honors-and-awards'></span>
 
 # 🏛️ Conferences
 - *2021.10*, 全国电磁无损检测技术研讨会 暨 中国机械工程学会无损检测分会电磁专业技术大会第十一届第四次全体会议, 陕西西安, 受邀报告
 - *2019.09*, 第十九届国际应用电磁学与力学会议 (ISEM 2019), 江苏南京, 海报
 - *2017.10*, 第六届中国国际管道会议 (CIPC 2017), 河北廊坊
 
-<span class='anchor' id='-conferences'></span>
+<span class='anchor' id='conferences'></span>
 
 # 💻 Keen Project
 - *2018.05 - 2020.02*, 重庆长江轴承股份有限公司, 重庆
 - *2020.11.25 - 2020.12.02*, 湖北新冶钢有限公司, 湖北黄石
 - *2017.6 - 2021.1*, 制造装备数字化国家工程研究中心, 湖北武汉
 
-<span class='anchor' id='-keen-project'></span>
+<span class='anchor' id='keen-project'></span>
+
 
 
