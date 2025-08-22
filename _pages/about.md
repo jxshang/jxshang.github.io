@@ -30,7 +30,7 @@ My research interest includes:
 - Flight Data Analysis
   
 # 📢 Updates
-- [2025.07]: One paper on information popularity prediction was accepted by **TKDE** (JCR Q1, IF=10.4)
+- *[2025.07]* One paper on information popularity prediction was accepted by **TKDE** (JCR Q1, IF=10.4)
 - [2025.06]: One paper on information diffusion prediction was accepted by **Knowledge-Based Systems** (JCR Q1, IF=7.6)
 - [2025.05]: One paper on flight data anlysis was accepted by **TITS** (JCR Q1, IF=8.4)
 - [2025.04]: One paper on flight data analysis was accepted by **EAAI** (JCR Q1, IF=8.0)
@@ -40,17 +40,17 @@ My research interest includes:
 <span class='anchor' id='about-me'></span>
 
 # 💼 Employment
-- *2024.06 - now*, <a href="https://www.exeter.ac.uk/"><img class="png" src="/images/EXEU_logo.png" width="20pt"></a> Marie Curie Postdoctoral Research Fellow, Department of Computer Science, University of Exeter, U.K.
-- *2023.09 - now*, <a href="https://www.cqu.edu.cn/"><img class="png" src="/images/CQU_logo.png" width="20pt"></a> Professor, College of Computer Science, Chongqing University, Chongqing China.
-- *2018.09 - 2023.08*, <a href="https://www.cqu.edu.cn/"><img class="png" src="/images/CQU_logo.png" width="20pt"></a> Associate Professor, College of Computer Science, Chongqing University, Chongqing China.
-- *2016.02 - 2018.08*, <a href="https://www.cqu.edu.cn/"><img class="png" src="/images/CQU_logo.png" width="20pt"></a> Lecturer, College of Computer Science, Chongqing University, Chongqing China.
-- *2014.09 - 2015.01*, <a href="https://www.cityu.edu.hk/"><img class="jpg" src="/images/CityU_logo.jpg" width="20pt"></a> Research Assistant, Department of Information Systems, City University of Hong Kong, Hong Kong China.
+- *2024.06 - now*, <a href="https://www.exeter.ac.uk/"><img class="png" src="/images/EXEU_logo.png" width="23pt"></a> Marie Curie Postdoctoral Research Fellow, Department of Computer Science, University of Exeter, U.K.
+- *2023.09 - now*, <a href="https://www.cqu.edu.cn/"><img class="png" src="/images/CQU_logo.png" width="23pt"></a> Professor, College of Computer Science, Chongqing University, Chongqing China.
+- *2018.09 - 2023.08*, <a href="https://www.cqu.edu.cn/"><img class="png" src="/images/CQU_logo.png" width="23pt"></a> Associate Professor, College of Computer Science, Chongqing University, Chongqing China.
+- *2016.02 - 2018.08*, <a href="https://www.cqu.edu.cn/"><img class="png" src="/images/CQU_logo.png" width="23pt"></a> Lecturer, College of Computer Science, Chongqing University, Chongqing China.
+- *2014.09 - 2015.01*, <a href="https://www.cityu.edu.hk/"><img class="jpg" src="/images/CityU_logo.jpg" width="23pt"></a> Research Assistant, Department of Information Systems, City University of Hong Kong, Hong Kong China.
  
 <span class='anchor' id='employment'></span>
 
 # 🎓 Educations
 - *2010.09 - 2016.01*, <a href="https://www.tsinghua.edu.cn/"><img class="svg" src="/images/THU_logo.svg" width="23pt"></a> PhD Degree, Control Science and Engineering, Tsinghua University, Beijing China.
-- *2006.09 - 2010.07*, <a href="https://www.tsinghua.edu.cn/"><img class="svg" src="/images/THU_logo.svg" width="20pt"></a> Bachelor Degree, Department of Automation, Tsinghua University, Beijing China.
+- *2006.09 - 2010.07*, <a href="https://www.tsinghua.edu.cn/"><img class="svg" src="/images/THU_logo.svg" width="23pt"></a> Bachelor Degree, Department of Automation, Tsinghua University, Beijing China.
  
 <span class='anchor' id='educations'></span>
 
@@ -188,6 +188,7 @@ My research interest includes:
 - *2017.6 - 2021.1*, 制造装备数字化国家工程研究中心, 湖北武汉
 
 <span class='anchor' id='keen-project'></span>
+
 
 
 
