@@ -54,7 +54,7 @@ My research interest includes:
 
 <span class='anchor' id='publications'></span>
 
-# 📝 Publications
+# 📝 Publications (*Corresponding author)
 
 ### English
 ---
@@ -86,12 +86,12 @@ My research interest includes:
 </div>
 
 
-- Bo Feng, Jianbo Wu, Hongming Tu, `Jian Tang`, Yihua Kang. A Review of Magnetic Flux Leakage Nondestructive Testing. *Materials*. 2022, 15 (20): 7362. (JCR:Q1; IF:3.748)  
-[[网页]](https://dx.doi.org/10.3390/ma15207362) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf) [[下载]](/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf)
+- Xinyuan Zhu, Fei Hao, Ming Lei, Aziz Nasridinov, `Jiaxing Shang`, Zhengxin Yu, Longjiang Guo. *Future Generation Computer Systems*. 2026, 175: 108033. (JCR:Q1; IF=6.1)  
+[[HTML]](https://www.sciencedirect.com/science/article/abs/pii/S0167739X25003280)
 
 
-- Xin Jin, Hongbao Ma, `Jian Tang`, Yihua Kang, A Self-Adaptive Vibration Reduction Method Based on Deep Deterministic Policy Gradient (DDPG) Reinforcement Learning Algorithm. *Applied Sciences*. 2022,12(9): 9703. (JCR:Q2; IF:2.838)  
-[[网页]](https://dx.doi.org/10.3390/app12199703) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/JinX-2022-A%20Self-Adaptive%20Vibration%20Reduction%20Method%20Based%20on%20Deep%20Deterministic%20Policy.pdf) [[下载]](/pdf/JinX-2022-A%20Self-Adaptive%20Vibration%20Reduction%20Method%20Based%20on%20Deep%20Deterministic%20Policy.pdf)
+- `Jiaxing Shang*`, Xiaoquan Li, Ruixiang Zhang, Linjiang Zheng, Xu Li, Riquan Zhang, Xinbin Zhao, Fan Li, Hong Sun. A Dual Two-Stage Attention-based Model for Interpretable Hard Landing Prediction from Flight Data. *Engineering Applications of Artificial Intelligence*. 2025,154(15): 110911. (JCR Q1; IF=8.0)  
+[[HTML]](https://www.sciencedirect.com/science/article/abs/pii/S095219762500911X) [[Code]](https://github.com/jxshang/DUTSAM)
 
 - Jikai Zhang, Yuewen Huang, `Jian Tang`, Fangfang Zhou, Yihua Kang, Bo Feng. Inspection of Cracks in the Piston Rod of a Hydraulic Cylinder Using Injected Alternating Current-Field Measurement. *Water*. 2022 14(17):2736. (JCR:Q2; IF:3.530)  
 [[网页]](https://dx.doi.org/10.3390/w14172736) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/ZhangJ-2022-Inspection%20of%20Cracks%20in%20the%20Piston%20Rod%20of%20a%20Hydraulic%20Cylinder%20Using%20Injected.pdf) [[下载]](/pdf/ZhangJ-2022-Inspection%20of%20Cracks%20in%20the%20Piston%20Rod%20of%20a%20Hydraulic%20Cylinder%20Using%20Injected.pdf)
@@ -180,6 +180,7 @@ My research interest includes:
 - *2018.05 - 2020.02*, 重庆长江轴承股份有限公司, 重庆
 - *2020.11.25 - 2020.12.02*, 湖北新冶钢有限公司, 湖北黄石
 - *2017.6 - 2021.1*, 制造装备数字化国家工程研究中心, 湖北武汉
+
 
 
 
