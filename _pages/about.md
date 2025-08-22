@@ -54,9 +54,9 @@ My research interest includes:
 
 <span class='anchor' id='publications'></span>
 
-# 📝 Publications (*Corresponding author)
+# 📝 Publications
 
-### English
+### English (*Corresponding author)
 ---
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2025</div><img src='images/DVCAE_TKDE.png' alt="DVCAE" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -180,6 +180,7 @@ My research interest includes:
 - *2018.05 - 2020.02*, 重庆长江轴承股份有限公司, 重庆
 - *2020.11.25 - 2020.12.02*, 湖北新冶钢有限公司, 湖北黄石
 - *2017.6 - 2021.1*, 制造装备数字化国家工程研究中心, 湖北武汉
+
 
 
 
