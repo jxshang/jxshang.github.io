@@ -7,14 +7,13 @@ main:
     url: "/#-educations"
 
   - title: "Publications"
-    url: "/-publications"
+    url: "/#-publications"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - title: "KEEN Project"
+  - title: "Conferences"
+    url: "/#-conferences"
+
+  - title: "Keen Project"
     url: "/#-keen-project"
-
-  - title: "Others"
-    url: "/#-others"
-
