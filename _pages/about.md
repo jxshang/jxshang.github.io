@@ -215,6 +215,13 @@ In this paper, we propose SDVD, a novel framework for Self-supervised Dual-View 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2025</div><img src='images/MESE_TKDE.jpg' alt="MESE" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+-	Rong Xu, `Jiaxing Shang*`, Mengya Guan, Jingqing Wang, Haoyue Cui, Geyong Min. MESE: Mining Emotional and Semantic Evolution from User Comments for Fake News Detection. *IEEE Transactions on Knowledge and Data Engineering*. 2025. (JCR Q1; IF=10.4, *submitted*)  
+In this paper, to address fake news detection issue, we comprehensively consider three key factors within the comment section: emotional evolution, semantic evolution, and diversity of user attention, and propose a novel fake model MESE by mining the emotional and semantic evolution from user comments. Specifically, we first propose a habit-aware comment representation learning method to obtain news-enhanced personalized comment representations. Next, a gating mechanism is introduced to deeply integrate emotional and semantic features. Additionally, we develop a comment emotional and semantic evolution module to capture shifts in public reactions over time. Finally, these diverse representations are fused to generate prediction results. Extensive experiments on two public datasets demonstrate the superior performance of MESE.
+</div>
+</div>
+
 
 
 
