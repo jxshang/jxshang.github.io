@@ -138,7 +138,7 @@ My research interest includes:
 [[HTML]](https://www.sciencedirect.com/science/article/abs/pii/S0950705123006809)
 
 
-- Ziwei Jin, `Jiaxing Shang*`, Wancheng Ni*, Liang Zhao, Dajiang Liu, Baohua Qiang, Wu Xie, Geyong Min. IM2Vec: Representation learning-based preference maximization in geo-social networks. *Information Sciences*. 2022, 604: 170-196. (JCR Q1; IF=6.8)  
+- Ziwei Jin, `Jiaxing Shang*`, Wancheng Ni\*, Liang Zhao, Dajiang Liu, Baohua Qiang, Wu Xie, Geyong Min. IM2Vec: Representation learning-based preference maximization in geo-social networks. *Information Sciences*. 2022, 604: 170-196. (JCR Q1; IF=6.8)  
 [[HTML]](https://www.sciencedirect.com/science/article/abs/pii/S0020025522004200)
 
 
@@ -202,5 +202,6 @@ My research interest includes:
 - *2025.08*, We have a paper on fake news detection submitted to *WSDM 2026*.
 - *2025.06*, We have a paper on information diffusion prediction accepted by *Knowledge-Based Systems* (JCR Q1, IF=7.6).
 - *2025.04*, We have a paper on fake news detection submitted to *IEEE Transactions on Knowledge and Data Engineering*.
+
 
 
