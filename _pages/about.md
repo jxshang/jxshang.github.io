@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我将博士毕业于湖北武汉的 华中科技大学 机械科学与工程学院，我的导师是康宜华教授。本科毕业于四川成都的 四川大学 制造科学与工程学院（现机械工程学院）。包括合著，我已经发表 20+ 篇学术论文
+I am a professor at the College of Computer Science, Chongqing University, Chongqing, China. I received the B.S. and Ph.D. degrees in Control Science and Engineering from Tsinghua University, Beijing, China, in 2010 and 2016 respectively. Currently, I am doing the Marie Sklodowska-Curie Fellow with the University of Exeter, Exeter, United Kingdom, under the project "KEEN: ". I have published 90+ high quality journal and conference articles, including TKDE, TNNLS, TITS, TETC, TCSS, PR, DASFAA, HPCA, DAC, DATE, etc. These publications have generated 1600+ citations in Google scholar. I serve as a reviewer for several top journals and conferences, including TPAMI, TKDE, TCAD, TNNLS, TITS, KDD, AAAI, etc. I have served as a sension/workshop chair and TPC member for several prestigious conferences, including WASA'2017, HHME'2020, ICC'2019, DSONAM'2020, etc.
  <a href='https://scholar.google.com/citations?user=PC59Mr0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>。
 
 My research interest includes:
@@ -29,9 +29,15 @@ My research interest includes:
 - Graph Neural Networks
 - Flight Data Analysis
   
+# 📰 Updates
+- [2025/07]: One paper on information popularity prediction was accepted by **TKDE** (JCR Q1, IF=10.4)
+- [2025/06]: One paper on information diffusion prediction was accepted by **Knowledge-Based Systems** (JCR Q1, IF=7.6)
+- [2025/05]: One paper on flight data anlysis was accepted by **TITS** (JCR Q1, IF=8.4)
+- [2025/04]: One paper on flight data analysis was accepted by **EAAI** (JCR Q1, IF=8.0)
+- [2025/03]: One paper on aspect sentiment triplet extraction was accepted by **Data Science and Engineering** (JCR Q1, IF=4.6)
+- [2025/02]: One paper on wargame data mining was accepted by **Acta Automatica Sinica** (自动化学报, CCF-A类中文期刊)
 
-
-<span class='anchor' id='-about-me'></span>
+<span class='anchor' id='about-me'></span>
 
 # 🎓 Educations
 - *2010.09 - 2016.01*, <a href="https://www.tsinghua.edu.cn/"><img class="svg" src="/images/THU_logo.svg" width="23pt"></a> PhD Degree, Control Science and Engineering, Tsinghua University, Beijing China.
@@ -173,3 +179,4 @@ My research interest includes:
 - *2017.6 - 2021.1*, 制造装备数字化国家工程研究中心, 湖北武汉
 
 <span class='anchor' id='-keen-project'></span>
+
