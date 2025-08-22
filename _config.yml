@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jiaxing Shang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Tsinghua University"
-  location         : "Chongqing China"
+  bio              : "Chongqing University"
+  location         : "Chongqing, China"
   employer         : "Chongqing University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=PC59Mr0AAAAJ"
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : "https://dblp.org/pid/149/2472.html" # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0001-9658-209X"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-3152-1760"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -161,4 +161,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
