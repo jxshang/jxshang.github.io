@@ -30,7 +30,7 @@ My research interest includes:
 - Flight Data Analysis
   
 # 📢 Updates
-- *[2025.07]* One paper on information popularity prediction was accepted by **TKDE** (JCR Q1, IF=10.4)
+- [2025.07] One paper on information popularity prediction was accepted by **TKDE** (JCR Q1, IF=10.4)
 - [2025.06]: One paper on information diffusion prediction was accepted by **Knowledge-Based Systems** (JCR Q1, IF=7.6)
 - [2025.05]: One paper on flight data anlysis was accepted by **TITS** (JCR Q1, IF=8.4)
 - [2025.04]: One paper on flight data analysis was accepted by **EAAI** (JCR Q1, IF=8.0)
@@ -188,6 +188,7 @@ My research interest includes:
 - *2017.6 - 2021.1*, 制造装备数字化国家工程研究中心, 湖北武汉
 
 <span class='anchor' id='keen-project'></span>
+
 
 
 
