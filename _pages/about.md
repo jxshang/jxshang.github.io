@@ -213,6 +213,7 @@ In this paper, we propose SDVD, a novel framework for Self-supervised Dual-View 
 </div>
 </div>
 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2025</div><img src='images/MESE_TKDE.jpg' alt="MESE" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 -	**[2025.04]** Rong Xu, `Jiaxing Shang*`, Mengya Guan, Jingqing Wang, Haoyue Cui, Geyong Min. MESE: Mining Emotional and Semantic Evolution from User Comments for Fake News Detection. *IEEE Transactions on Knowledge and Data Engineering*. 2025. (JCR Q1; IF=10.4, *submitted*)  
@@ -221,13 +222,24 @@ In this paper, to address fake news detection issue, we comprehensively consider
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2024</div><img src='images/ReFEND_TKDE.png' alt="MESE" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/KNNLC_TPAMI.png' alt="KNNLC" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+-	**[2025.02]** Yincheng Han, `Jiaxing Shang*`, Ruiyuan Li, Xu Li, Longquan Liao, Linjiang Zheng, Geyong Min. Boosting Low-budget Active Learning with Label Calibration and Unsupervised Representations. *IEEE Transactions on Pattern Analysis and Machine Intelligence*. 2025. (JCR Q1; IF=18.6, *submitted*)  
+  
+In active learning research, low-budget active learning poses a significant challenge. To address this challenge, we propose a novel and unified framework that leverages label calibration and unsupervised representations. Specifically, to cope with the scarcity of labeled data, we perform pre-training on the entire unlabeled dataset to generate unsupervised representations. To address model instability, we creatively calibrate pseudo-labels of unlabeled examples using statistical information derived from model outputs during training. These calibrated pseudo-labels and unsupervised representations are fed into a KNN classification model to generate predictions for test examples. Theoretical and empirical experiments demonstrate its superior effectiveness in boosting the performance of active learning algorithms under low-budget constraints.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2024</div><img src='images/ReFEND_TKDE.png' alt="ReFEND" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 -	**[2024.05]** Mengya Guan, `Jiaxing Shang*`, Rong Xu, Fei Hao, Ruiyuan Li, Geyong Min. ReFEND: Leveraging Social Sentiment Resonances for Fake News Detection. *IEEE Transactions on Knowledge and Data Engineering*. 2025. (JCR Q1; IF=10.4, *major revision*)  
   
 In this paper, we propose a novel framework named ReFEND, which leverages the sentiment resonances among the social users (i.e., social sentiment resonances) and the sentiment relationship between news content and user comments to improve the fake news detection performance. Specifically, we first utilize sentiment scorers to assess the sentiment of comments and identify users' emotional tendencies. Then we creatively construct a sentiment-aware multi-relational graph to capture social sentiment resonances. Next, we leverage the relational graph convolutional network (RGCN) to learn the interactions on sentiment-aware graph. Experimental results on three datasets indicate that ReFEND significantly outperforms the state-of-the-art sentiment-based methods.
 </div>
 </div>
+
 
 
 
