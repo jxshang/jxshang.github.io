@@ -198,7 +198,7 @@ My research interest includes:
 
 <span class='anchor' id='keen-project'></span>
 
-# 💻 Keen Project
+# 💻 KEEN Project
 ## Project Name:
 **KEEN: Knowledge-Driven Explainable Misinformation Detection for Trustworthy Computational Social Systems**
 
@@ -207,5 +207,6 @@ My research interest includes:
 - *2025.06*, We have one paper on information diffusion prediction accepted by *Knowledge-Based Systems* (JCR Q1, IF=7.6).
 - *2025.04*, We have one paper on fake news detection submitted to *IEEE Transactions on Knowledge and Data Engineering*. (JCR Q1, IF=10.4)
 - *2024.05*, We have one paper on fake news detection submitted to *IEEE Transactions on Knowledge and Data Engineering*. (JCR Q1, IF=10.4)
+
 
 
