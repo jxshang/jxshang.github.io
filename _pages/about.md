@@ -203,9 +203,6 @@ My research interest includes:
 **KEEN: Knowledge-Driven Explainable Misinformation Detection for Trustworthy Computational Social Systems**
 
 ## Project Updates:
-- *2025.06*, We have one paper on information diffusion prediction accepted by *Knowledge-Based Systems* (JCR Q1, IF=7.6).
-- *2025.04*, We have one paper on fake news detection submitted to *IEEE Transactions on Knowledge and Data Engineering*. (JCR Q1, IF=10.4)
-- *2024.05*, We have one paper on fake news detection submitted to *IEEE Transactions on Knowledge and Data Engineering*. (JCR Q1, IF=10.4)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS 2025</div><img src='images/SDVD_KBS.png' alt="SDVD" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -231,6 +228,7 @@ In this paper, to address fake news detection issue, we comprehensively consider
 In this paper, we propose a novel framework named ReFEND, which leverages the sentiment resonances among the social users (i.e., social sentiment resonances) and the sentiment relationship between news content and user comments to improve the fake news detection performance. Specifically, we first utilize sentiment scorers to assess the sentiment of comments and identify users' emotional tendencies. Then we creatively construct a sentiment-aware multi-relational graph to capture social sentiment resonances. Next, we leverage the relational graph convolutional network (RGCN) to learn the interactions on sentiment-aware graph. Experimental results on three datasets indicate that ReFEND significantly outperforms the state-of-the-art sentiment-based methods.
 </div>
 </div>
+
 
 
 
