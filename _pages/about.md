@@ -36,8 +36,8 @@ My research interest includes:
 - [2025.04] One paper on flight data analysis was accepted by **EAAI** (JCR Q1, IF=8.0)
 - [2025.03] One paper on aspect sentiment triplet extraction was accepted by **Data Science and Engineering** (JCR Q1, IF=4.6)
 - [2025.02] One paper on wargame data mining was accepted by **Acta Automatica Sinica** (自动化学报, CCF-A类中文期刊)
-
-<span class='anchor' id='about-me'></span>
+ 
+<span class='anchor' id='employment'></span>
 
 # 💼 Employment
 - *2024.06 - now*, <a href="https://www.exeter.ac.uk/"><img class="png" src="/images/EXEU_logo.png" width="23pt"></a> Marie Curie Postdoctoral Research Fellow, Department of Computer Science, University of Exeter, U.K.
@@ -46,13 +46,13 @@ My research interest includes:
 - *2016.02 - 2018.08*, <a href="https://www.cqu.edu.cn/"><img class="png" src="/images/CQU_logo.png" width="23pt"></a> Lecturer, College of Computer Science, Chongqing University, Chongqing China.
 - *2014.09 - 2015.01*, <a href="https://www.cityu.edu.hk/"><img class="jpg" src="/images/CityU_logo.jpg" width="23pt"></a> Research Assistant, Department of Information Systems, City University of Hong Kong, Hong Kong China.
  
-<span class='anchor' id='employment'></span>
+<span class='anchor' id='educations'></span>
 
 # 🎓 Educations
 - *2010.09 - 2016.01*, <a href="https://www.tsinghua.edu.cn/"><img class="svg" src="/images/THU_logo.svg" width="23pt"></a> PhD Degree, Control Science and Engineering, Tsinghua University, Beijing China.
 - *2006.09 - 2010.07*, <a href="https://www.tsinghua.edu.cn/"><img class="svg" src="/images/THU_logo.svg" width="23pt"></a> Bachelor Degree, Department of Automation, Tsinghua University, Beijing China.
- 
-<span class='anchor' id='educations'></span>
+
+<span class='anchor' id='publications'></span>
 
 # 📝 Publications
 
@@ -160,28 +160,27 @@ My research interest includes:
 - 伍剑波, `唐健`, 王杰, 方辉. 一种基于动生涡电流的金属管件电磁无损检测装置. [[网页]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2016&filename=CN105510433A&v=) 
 - 刁燕, 陈敏, 王荣彪, `唐健`, 蒲廷燕, 都健. 一种基于绳体拉力传动的机械手. [[网页]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2016&filename=CN105773598A&v=) 
 
-<span class='anchor' id='publications'></span>
+<span class='anchor' id='honors-and-awards'></span>
 
 # 🏅 Honors and Awards
 - *2015.11* 获得 第十四届“挑战杯”全国大学生课外学术科技作品竞赛 `一等奖`  
 - *2015.06* 获得 第十三届“挑战杯”四川大学生课外学术科技作品竞赛 `一等奖` [[新闻]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)  
 - *2014.12* 获得 第四届全国大学生工程训练综合能力竞赛（四川赛区） `一等奖`  
 
-<span class='anchor' id='honors-and-awards'></span>
+<span class='anchor' id='conferences'></span>
 
 # 🏛️ Conferences
 - *2021.10*, 全国电磁无损检测技术研讨会 暨 中国机械工程学会无损检测分会电磁专业技术大会第十一届第四次全体会议, 陕西西安, 受邀报告
 - *2019.09*, 第十九届国际应用电磁学与力学会议 (ISEM 2019), 江苏南京, 海报
 - *2017.10*, 第六届中国国际管道会议 (CIPC 2017), 河北廊坊
 
-<span class='anchor' id='conferences'></span>
+<span class='anchor' id='keen-project'></span>
 
 # 💻 Keen Project
 - *2018.05 - 2020.02*, 重庆长江轴承股份有限公司, 重庆
 - *2020.11.25 - 2020.12.02*, 湖北新冶钢有限公司, 湖北黄石
 - *2017.6 - 2021.1*, 制造装备数字化国家工程研究中心, 湖北武汉
 
-<span class='anchor' id='keen-project'></span>
 
 
 
