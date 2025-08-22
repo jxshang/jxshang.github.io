@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a professor at the College of Computer Science, Chongqing University, Chongqing, China. I received the B.S. and Ph.D. degrees in Control Science and Engineering from Tsinghua University, Beijing, China, in 2010 and 2016 respectively. Currently, I am doing the Marie Sklodowska-Curie Fellow with the University of Exeter, Exeter, United Kingdom, under the project "KEEN: ". I have published 90+ high quality journal and conference articles, including TKDE, TNNLS, TITS, TETC, TCSS, PR, DASFAA, HPCA, DAC, DATE, etc. These publications have generated 1600+ citations in Google scholar. I serve as a reviewer for several top journals and conferences, including TPAMI, TKDE, TCAD, TNNLS, TITS, KDD, AAAI, etc. I have served as a sension/workshop chair and TPC member for several prestigious conferences, including WASA'2017, HHME'2020, ICC'2019, DSONAM'2020, etc.
+I am a professor at the College of Computer Science, Chongqing University, Chongqing, China. I received the B.S. and Ph.D. degrees in Control Science and Engineering from Tsinghua University, Beijing, China, in 2010 and 2016 respectively. Currently, I am doing the Marie Sklodowska-Curie Fellow with the University of Exeter, Exeter, United Kingdom, under the project "KEEN: Knowledge-Driven Explainable Misinformation Detection for Trustworthy Computational Social Systems". I have published 90+ high quality journal and conference articles, including TKDE, TNNLS, TITS, TETC, TCSS, PR, DASFAA, HPCA, DAC, DATE, etc. These publications have generated 1600+ citations in Google scholar. I serve as a reviewer for several top journals and conferences, including TPAMI, TKDE, TCAD, TNNLS, TITS, KDD, AAAI, etc. I have served as a sension/workshop chair and TPC member for several prestigious conferences, including WASA'2017, HHME'2020, ICC'2019, DSONAM'2020, etc.
  <a href='https://scholar.google.com/citations?user=PC59Mr0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>。
 
 My research interest includes:
@@ -58,11 +58,11 @@ My research interest includes:
 
 ### English
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2025</div><img src='images/DVCAE_TKDE.png' alt="DVCAE" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Jian Tang`, Rongbiao Wang, Gongzhe Qiu, Yu Hu, Yihua Kang. Mechanism of magnetic flux leakage detection method based on the slotted ferromagnetic lift-off layer. *Sensors*, 2022, 22(9): 3587. (JCR:Q2; IF:3.847)  
-[[网页]](https://dx.doi.org/10.3390/s22093587) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[下载]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+-	`Jiaxing Shang`, Xueqi Jia, Xiaoquan Li, Fei Hao, Ruiyuan Li, Geyong Min. DVCAE: Semi-Supervised Dual Variational Cascade Autoencoders for Information Popularity Prediction. *IEEE Transactions on Knowledge and Data Engineering*, 2025. (JCR Q1; IF=10.4)
+[[HTML]](https://ieeexplore.ieee.org/abstract/document/11087707) [[Code]](https://github.com/jxshang/DVCAE)
 
 </div>
 </div>
@@ -180,6 +180,7 @@ My research interest includes:
 - *2018.05 - 2020.02*, 重庆长江轴承股份有限公司, 重庆
 - *2020.11.25 - 2020.12.02*, 湖北新冶钢有限公司, 湖北黄石
 - *2017.6 - 2021.1*, 制造装备数字化国家工程研究中心, 湖北武汉
+
 
 
 
