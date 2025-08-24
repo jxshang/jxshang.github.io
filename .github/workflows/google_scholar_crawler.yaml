@@ -4,10 +4,6 @@ on:
  page_build: 
  schedule:
   - cron:  '0 8 * * *'
- workflow_dispatch:
-
-permissions:
- contents: write
 
 jobs:
   build:
@@ -16,32 +12,18 @@ jobs:
     - uses: actions/checkout@v2
     - name: Install Reqs
       run: |
-        sudo apt-get update
-        sudo apt-get install -y python3-setuptools
+        sudo apt-get install python3-setuptools
     - name: Run
       run: |
         cd ./google_scholar_crawler
         pip3 install -r requirements.txt
         python3 main.py
-        
         cd ./results
         git init
-        
-        # 设置提交身份（name + email 缺一不可）
         git config --local user.name "${GITHUB_ACTOR}"
-        git config --local user.email "${GITHUB_ACTOR_ID}+${GITHUB_ACTOR}@users.noreply.github.com"
-        # 也可以使用官方 bot 身份（任选其一）：
-        # git config --local user.name "github-actions[bot]"
-        # git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-        
+        export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
         git add *.json
-        git commit -m "Updated Citation Data" || echo "No changes to commit"
-
-        # 使用 token 推送到指定分支
-        #export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
-        export remote_repo="https://${GITHUB_ACTOR}:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+        git commit -m "Updated Citation Data"
         git push "${remote_repo}" HEAD:google-scholar-stats --force
       env: 
         GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
-
-
