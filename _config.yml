@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jiaxing Shang's Personal Homepage"
-description              : "Professor @ Chongqing University & Marie-Curie Postdoctoral Research Fellow @ University of Exeter"
+description              : "Professor at Chongqing University and Marie Curie Fellow at University of Exeter"
 repository               : "jxshang/jxshang.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -161,6 +161,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
 
 
