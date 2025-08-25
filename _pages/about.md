@@ -40,7 +40,7 @@ My research interest includes:
 <span class='anchor' id='employment'></span>
 
 # 💼 Employment
-- *2024.06 - now*, <a href="https://www.exeter.ac.uk/"><img class="png" src="/images/EXEU_logo.png" width="23pt"></a> Marie Curie Postdoctoral Research Fellow, Department of Computer Science, University of Exeter, U.K.
+- *2024.06 - now*, <a href="https://www.exeter.ac.uk/"><img class="png" src="/images/EXEU_logo.png" width="23pt"></a> Marie Curie Fellow, Department of Computer Science, University of Exeter, U.K.
 - *2023.09 - now*, <a href="https://www.cqu.edu.cn/"><img class="png" src="/images/CQU_logo.png" width="23pt"></a> Professor, College of Computer Science, Chongqing University, Chongqing China.
 - *2018.09 - 2023.08*, <a href="https://www.cqu.edu.cn/"><img class="png" src="/images/CQU_logo.png" width="23pt"></a> Associate Professor, College of Computer Science, Chongqing University, Chongqing China.
 - *2016.02 - 2018.08*, <a href="https://www.cqu.edu.cn/"><img class="png" src="/images/CQU_logo.png" width="23pt"></a> Lecturer, College of Computer Science, Chongqing University, Chongqing China.
@@ -239,6 +239,7 @@ In active learning research, low-budget active learning poses a significant chal
 In this paper, we propose a novel framework named ReFEND, which leverages the sentiment resonances among the social users (i.e., social sentiment resonances) and the sentiment relationship between news content and user comments to improve the fake news detection performance. Specifically, we first utilize sentiment scorers to assess the sentiment of comments and identify users' emotional tendencies. Then we creatively construct a sentiment-aware multi-relational graph to capture social sentiment resonances. Next, we leverage the relational graph convolutional network (RGCN) to learn the interactions on sentiment-aware graph. Experimental results on three datasets indicate that ReFEND significantly outperforms the state-of-the-art sentiment-based methods.
 </div>
 </div>
+
 
 
 
