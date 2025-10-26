@@ -208,7 +208,7 @@ My research interest includes:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WSDM 2026</div><img src='images/WSDM_2026.png' alt="SARC" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 -	**[2025.10]** Jingqing Wang, `Jiaxing Shang*`, Rong Xu, Fei Hao, Tianjin Huang, Geyong Min. SARC: Sentiment-Augmented Deep Role Clustering for Fake News Detection. *The 19th ACM International Conference on Web Search and Data Mining (WSDM)*. 2026. (Acceptance Rate: 16.3%)
-[[HTML]](https://wsdm-conference.org/2026/) [[Code]](https://anonymous.4open.science/r/SARC-5AEA)  
+[[HTML]](https://wsdm-conference.org/2026/) [[Code]](https://github.com/jxshang/SARC)  
   
 Fake news detection has been a long-standing research focus in social networks. Recent studies suggest that incorporating sentiment information from both news content and user comments can enhance detection performance. However, existing approaches typically treat sentiment features as auxiliary signals, overlooking role differentiation, that is, the same sentiment polarity may originate from users with distinct roles, thereby limiting their ability to capture nuanced patterns for effective detection. To address this issue, we propose **SARC**, a **S**entiment-**A**ugmented **R**ole **C**lustering framework which utilizes sentiment-enhanced deep clustering to identify user roles for improved fake news detection. The framework first generates user features through joint comment text representation (with BiGRU and Attention mechanism) and sentiment encoding. It then constructs a differentiable deep clustering module to automatically categorize user roles. Finally, unlike existing approaches which take fake news label as the unique supervision signal, we propose a joint optimization objective integrating role clustering and fake news detection to further improve the model performance. Experimental results on two benchmark datasets, RumourEval-19 and Weibo-comp, demonstrate that SARC achieves superior performance across all metrics compared to baseline models. The code is available at: https://anonymous.4open.science/r/SARC-5AEA.
 </div>
@@ -249,6 +249,7 @@ In active learning research, low-budget active learning poses a significant chal
 In this paper, we propose a novel framework named ReFEND, which leverages the sentiment resonances among the social users (i.e., social sentiment resonances) and the sentiment relationship between news content and user comments to improve the fake news detection performance. Specifically, we first utilize sentiment scorers to assess the sentiment of comments and identify users' emotional tendencies. Then we creatively construct a sentiment-aware multi-relational graph to capture social sentiment resonances. Next, we leverage the relational graph convolutional network (RGCN) to learn the interactions on sentiment-aware graph. Experimental results on three datasets indicate that ReFEND significantly outperforms the state-of-the-art sentiment-based methods.
 </div>
 </div>
+
 
 
 
