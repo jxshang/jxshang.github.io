@@ -31,7 +31,7 @@ My research interest includes:
   
 # 📢 Updates
 - [2025.11] One paper on flight data anlysis was accepted by **TITS** (JCR Q1, IF=8.4)
-- [2025.11] One paper on dynamic network modeling was accepted by **Physical Review E: Letters**
+- [2025.11] One paper on dynamic network modeling was published in **Physical Review E: Letters**
 - [2025.10] One paper on fake news detection was accepted by **WSDM 2026** (CCF-B, Acceptance Rate: 16.3%)
 - [2025.07] One paper on information popularity prediction was accepted by **TKDE** (JCR Q1, IF=10.4)
 - [2025.06] One paper on information diffusion prediction was accepted by **Knowledge-Based Systems** (JCR Q1, IF=7.6)
@@ -251,6 +251,7 @@ In active learning research, low-budget active learning poses a significant chal
 In this paper, we propose a novel framework named ReFEND, which leverages the sentiment resonances among the social users (i.e., social sentiment resonances) and the sentiment relationship between news content and user comments to improve the fake news detection performance. Specifically, we first utilize sentiment scorers to assess the sentiment of comments and identify users' emotional tendencies. Then we creatively construct a sentiment-aware multi-relational graph to capture social sentiment resonances. Next, we leverage the relational graph convolutional network (RGCN) to learn the interactions on sentiment-aware graph. Experimental results on three datasets indicate that ReFEND significantly outperforms the state-of-the-art sentiment-based methods.
 </div>
 </div>
+
 
 
 
