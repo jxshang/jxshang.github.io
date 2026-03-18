@@ -30,6 +30,8 @@ My research interest includes:
 - Flight Data Analysis
   
 # 📢 Updates
+- [2026.03] One paper on fake news detection was accepted by **TKDE** (JCR Q1, IF=10.4)
+- [2025.12] One paper on flight data anlysis was accepted by **IEEE Sensors Journal** (JCR Q1)
 - [2025.11] One paper on flight data anlysis was accepted by **TITS** (JCR Q1, IF=8.4)
 - [2025.11] One paper on dynamic network modeling was published in **Physical Review E: Letters**
 - [2025.10] One paper on fake news detection was accepted by **WSDM 2026** (CCF-B, Acceptance Rate: 16.3%)
@@ -246,7 +248,7 @@ In active learning research, low-budget active learning poses a significant chal
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2024</div><img src='images/ReFEND_TKDE.png' alt="ReFEND" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
--	**[2024.05]** Mengya Guan, `Jiaxing Shang*`, Rong Xu, Fei Hao, Ruiyuan Li, Geyong Min. ReFEND: Leveraging Social Sentiment Resonances for Fake News Detection. *IEEE Transactions on Knowledge and Data Engineering*. 2025. (JCR Q1; IF=10.4, *major revision*)  
+-	**[2024.06]** Mengya Guan, `Jiaxing Shang*`, Rong Xu, Fei Hao, Ruiyuan Li, Geyong Min. ReFEND: Leveraging Social Sentiment Resonances for Fake News Detection. *IEEE Transactions on Knowledge and Data Engineering*. 2025. (JCR Q1; IF=10.4, *accepted*)  
   
 In this paper, we propose a novel framework named ReFEND, which leverages the sentiment resonances among the social users (i.e., social sentiment resonances) and the sentiment relationship between news content and user comments to improve the fake news detection performance. Specifically, we first utilize sentiment scorers to assess the sentiment of comments and identify users' emotional tendencies. Then we creatively construct a sentiment-aware multi-relational graph to capture social sentiment resonances. Next, we leverage the relational graph convolutional network (RGCN) to learn the interactions on sentiment-aware graph. Experimental results on three datasets indicate that ReFEND significantly outperforms the state-of-the-art sentiment-based methods.
 </div>
