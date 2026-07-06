@@ -30,6 +30,7 @@ My research interest includes:
 - Flight Data Analysis
   
 # 📢 Updates
+- [2026.05] One paper on fake news detection was accepted by **TKDE** (JCR Q1, IF=10.4)
 - [2026.03] One paper on fake news detection was accepted by **TKDE** (JCR Q1, IF=10.4)
 - [2025.12] One paper on flight data anlysis was accepted by **IEEE Sensors Journal** (JCR Q1)
 - [2025.11] One paper on flight data anlysis was accepted by **TITS** (JCR Q1, IF=8.4)
@@ -45,8 +46,8 @@ My research interest includes:
 <span class='anchor' id='employment'></span>
 
 # 💼 Employment
-- *2024.06 - now*, <a href="https://www.exeter.ac.uk/"><img class="png" src="/images/EXEU_logo.png" width="23pt"></a> Marie Curie Fellow, Department of Computer Science, University of Exeter, U.K.
 - *2023.09 - now*, <a href="https://www.cqu.edu.cn/"><img class="png" src="/images/CQU_logo.png" width="23pt"></a> Professor, College of Computer Science, Chongqing University, Chongqing China.
+- *2024.06 - 2026.05*, <a href="https://www.exeter.ac.uk/"><img class="png" src="/images/EXEU_logo.png" width="23pt"></a> Marie Curie Fellow, Department of Computer Science, University of Exeter, U.K.
 - *2018.09 - 2023.08*, <a href="https://www.cqu.edu.cn/"><img class="png" src="/images/CQU_logo.png" width="23pt"></a> Associate Professor, College of Computer Science, Chongqing University, Chongqing China.
 - *2016.02 - 2018.08*, <a href="https://www.cqu.edu.cn/"><img class="png" src="/images/CQU_logo.png" width="23pt"></a> Lecturer, College of Computer Science, Chongqing University, Chongqing China.
 - *2014.09 - 2015.01*, <a href="https://www.cityu.edu.hk/"><img class="jpg" src="/images/CityU_logo.jpg" width="23pt"></a> Research Assistant, Department of Information Systems, City University of Hong Kong, Hong Kong China.
@@ -230,7 +231,7 @@ In this paper, we propose SDVD, a novel framework for Self-supervised Dual-View 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2025</div><img src='images/MESE_TKDE.jpg' alt="MESE" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
--	**[2025.04]** Rong Xu, `Jiaxing Shang*`, Mengya Guan, Jingqing Wang, Haoyue Cui, Geyong Min. MESE: Mining Emotional and Semantic Evolution from User Comments for Fake News Detection. *IEEE Transactions on Knowledge and Data Engineering*. 2025. (JCR Q1; IF=10.4, *submitted*)  
+-	**[2025.04]** Rong Xu, `Jiaxing Shang*`, Mengya Guan, Jingqing Wang, Haoyue Cui, Geyong Min. MESE: Mining Emotional and Semantic Evolution from User Comments for Fake News Detection. *IEEE Transactions on Knowledge and Data Engineering*. 2026, 38(7): 4528-4541. (JCR Q1; IF=10.4)  
   
 In this paper, to address fake news detection issue, we comprehensively consider three key factors within the comment section: emotional evolution, semantic evolution, and diversity of user attention, and propose a novel fake model MESE by mining the emotional and semantic evolution from user comments. Specifically, we first propose a habit-aware comment representation learning method to obtain news-enhanced personalized comment representations. Next, a gating mechanism is introduced to deeply integrate emotional and semantic features. Additionally, we develop a comment emotional and semantic evolution module to capture shifts in public reactions over time. Finally, these diverse representations are fused to generate prediction results. Extensive experiments on two public datasets demonstrate the superior performance of MESE.
 </div>
@@ -248,7 +249,7 @@ In active learning research, low-budget active learning poses a significant chal
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2024</div><img src='images/ReFEND_TKDE.png' alt="ReFEND" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
--	**[2024.06]** Mengya Guan, `Jiaxing Shang*`, Rong Xu, Fei Hao, Ruiyuan Li, Geyong Min. ReFEND: Leveraging Social Sentiment Resonances for Fake News Detection. *IEEE Transactions on Knowledge and Data Engineering*. 2025. (JCR Q1; IF=10.4, *accepted*)  
+-	**[2024.06]** Mengya Guan, `Jiaxing Shang*`, Rong Xu, Fei Hao, Ruiyuan Li, Geyong Min. ReFEND: Leveraging Social Sentiment Resonances for Fake News Detection. *IEEE Transactions on Knowledge and Data Engineering*. 2026, 38(5): 3052-3064. (JCR Q1; IF=10.4, *accepted*)  
   
 In this paper, we propose a novel framework named ReFEND, which leverages the sentiment resonances among the social users (i.e., social sentiment resonances) and the sentiment relationship between news content and user comments to improve the fake news detection performance. Specifically, we first utilize sentiment scorers to assess the sentiment of comments and identify users' emotional tendencies. Then we creatively construct a sentiment-aware multi-relational graph to capture social sentiment resonances. Next, we leverage the relational graph convolutional network (RGCN) to learn the interactions on sentiment-aware graph. Experimental results on three datasets indicate that ReFEND significantly outperforms the state-of-the-art sentiment-based methods.
 </div>
